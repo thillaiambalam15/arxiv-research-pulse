@@ -25,7 +25,7 @@ The pipeline processes the 3.16M-paper arXiv metadata dataset, scopes it to seve
 ## 📁 Files
 
 ```text
-├── 01_arxiv_data_pipeline.ipynb
+├── arxiv_data_pipeline.ipynb
 ├── Arxiv_Pulse_Report.pbix
 └── README.md
 ```
